@@ -1,0 +1,13 @@
+{
+    "python.pythonPath": "C:\\Program Files\\Python39",
+    "python.linting.enabled": true,
+    "python.linting.pylintEnabled": true,
+    "[python]":{ 
+        "editor.formatOnType": true,
+        "editor.formatOnSave": true,
+        "editor.renderIndentGuides": true,
+        "editor.insertSpaces": true,
+        "editor.detectIndentation": true,
+        "editor.tabSize": 4
+    },
+}
